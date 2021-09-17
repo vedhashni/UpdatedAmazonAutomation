@@ -1,0 +1,22 @@
+2021-09-17 11:27:06,855 INFO Configured
+2021-09-17 11:27:35,124 DEBUG navigating to url
+2021-09-17 11:27:35,626 INFO Window is maximized
+2021-09-17 11:27:36,522 INFO Configured
+2021-09-17 11:28:04,301 DEBUG navigating to url
+2021-09-17 11:28:04,704 INFO Window is maximized
+2021-09-17 11:37:40,419 INFO Configured
+2021-09-17 11:38:08,311 DEBUG navigating to url
+2021-09-17 11:38:08,745 INFO Window is maximized
+2021-09-17 11:42:06,653 INFO Configured
+2021-09-17 11:42:34,019 ERROR unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:43:14,951 INFO Configured
+2021-09-17 11:43:42,749 DEBUG navigating to url
+2021-09-17 11:43:43,153 INFO Window is maximized
+2021-09-17 11:45:13,035 INFO Configured
+2021-09-17 11:45:20,769 DEBUG navigating to url
+2021-09-17 11:45:21,120 INFO Window is maximized
+2021-09-17 11:46:00,315 INFO Configured
+2021-09-17 11:46:30,789 DEBUG navigating to url
+2021-09-17 11:46:31,146 INFO Window is maximized
